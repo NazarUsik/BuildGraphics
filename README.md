@@ -28,4 +28,4 @@ The user interface provides a window with the main menu, the necessary buttons, 
 ![Res2](diagram.png)
 
 
-`The program was written on 12/21/19`
+>`The program was written on 12/21/19`
