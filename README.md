@@ -1,9 +1,10 @@
 # BuildGraphics
 
-## Topic:
+### Topic:
 Development of a graphical user interface application for numerical finding of the maximum by the Dichotomy method.
 
-## Formulation of the problem:
+
+### Formulation of the problem:
 During the work it is necessary to design and implement a graphical user interface program to numerically find the maximum of the function
 `f(x) - g(x) -> max`
 
@@ -19,3 +20,9 @@ It is necessary to implement the following features of the program:
 
 
 The user interface provides a window with the main menu, the necessary buttons, tables for entering and editing data, rows for entering scalar data, a text area for displaying results and a panel for displaying graphs, as well as a separate window for contextual help.
+
+
+
+## The result of the work
+![Res1](im.png)
+![Res2](diagram.png)
