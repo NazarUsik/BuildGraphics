@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<points>
+    <point number="0">
+        <x>-10.0</x>
+        <y>-365.2</y>
+    </point>
+    <point number="1">
+        <x>-9.0</x>
+        <y>243.3</y>
+    </point>
+    <point number="2">
+        <x>-8.0</x>
+        <y>73.7</y>
+    </point>
+    <point number="3">
+        <x>-7.0</x>
+        <y>-194.2</y>
+    </point>
+    <point number="4">
+        <x>-6.0</x>
+        <y>77.3</y>
+    </point>
+    <point number="5">
+        <x>-5.0</x>
+        <y>54.4</y>
+    </point>
+    <point number="6">
+        <x>-4.0</x>
+        <y>-63.3</y>
+    </point>
+    <point number="7">
+        <x>-3.0</x>
+        <y>10.1</y>
+    </point>
+    <point number="8">
+        <x>-2.0</x>
+        <y>12.1</y>
+    </point>
+    <point number="9">
+        <x>-1.0</x>
+        <y>-3.6</y>
+    </point>
+    <point number="10">
+        <x>0.0</x>
+        <y>0.0</y>
+    </point>
+    <point number="11">
+        <x>1.0</x>
+        <y>3.6</y>
+    </point>
+    <point number="12">
+        <x>2.0</x>
+        <y>-12.1</y>
+    </point>
+    <point number="13">
+        <x>3.0</x>
+        <y>-10.1</y>
+    </point>
+    <point number="14">
+        <x>4.0</x>
+        <y>63.3</y>
+    </point>
+    <point number="15">
+        <x>5.0</x>
+        <y>-54.4</y>
+    </point>
+    <point number="16">
+        <x>6.0</x>
+        <y>-77.3</y>
+    </point>
+    <point number="17">
+        <x>7.0</x>
+        <y>194.2</y>
+    </point>
+    <point number="18">
+        <x>8</x>
+        <y>-73.7</y>
+    </point>
+    <point number="19">
+        <x>9.0</x>
+        <y>-243.3</y>
+    </point>
+    <point number="20">
+        <x>10.0</x>
+        <y>365.2</y>
+    </point>
+</points>

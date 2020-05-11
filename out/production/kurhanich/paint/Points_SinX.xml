@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<points>
+    <point number="0">
+        <x>-5</x>
+        <y>0.96</y>
+    </point>
+    <point number="1">
+        <x>-4</x>
+        <y>0.76</y>
+    </point>
+    <point number="2">
+        <x>-3</x>
+        <y>-0.14</y>
+    </point>
+    <point number="3">
+        <x>-2</x>
+        <y>-0.91</y>
+    </point>
+    <point number="4">
+        <x>-1</x>
+        <y>-0.84</y>
+    </point>
+    <point number="5">
+        <x>0.0</x>
+        <y>0.0</y>
+    </point>
+    <point number="6">
+        <x>1</x>
+        <y>	0.84</y>
+    </point>
+    <point number="7">
+        <x>2</x>
+        <y>0.91</y>
+    </point>
+    <point number="8">
+        <x>3</x>
+        <y>0.14</y>
+    </point>
+    <point number="9">
+        <x>4</x>
+        <y>	-0.76</y>
+    </point>
+    <point number="10">
+        <x>5</x>
+        <y>-0.96</y>
+    </point>
+</points>
